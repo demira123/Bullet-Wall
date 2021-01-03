@@ -1,2 +1,2 @@
-# Bullet-Wall
-Bullets hit wall and the wall changes color on impact based on force of impact.
+# p5.play-boilerplate
+Boiler plate for p5.play
